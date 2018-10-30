@@ -12,4 +12,5 @@ public class intops{
 	System.out.println(a  "%"  b  "="  rem);
 	}
 }
+fghjkkjhlugygkyuk
 	

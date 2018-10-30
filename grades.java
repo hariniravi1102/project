@@ -1,3 +1,4 @@
+
 public class grades{
 	public static void main(String[] args){
 		double[] grades = { 2.3,2.3,1.0,1.7,1.3, 1.3,3.0};
@@ -8,3 +9,5 @@ public class grades{
 	}
 }
 added new line
+new line
+ghhjjjkk
